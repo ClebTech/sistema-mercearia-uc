@@ -1,6 +1,6 @@
-Casos de Uso
-UC01: Realizar Venda
-Ator(es):
+**Casos de Uso
+**UC01: Realizar Venda
+**Ator(es):
 Cliente
 Funcionário do caixa
 Operadora de pagamentos
